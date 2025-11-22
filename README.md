@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Anudeep Muppalla</h1>
-<h3 align="center">Full-Stack Developer | MERN | AI & Automation Enthusiast</h3>
+# Hi, I'm Anudeep Muppalla
+*Full-Stack Developer | MERN | AI & Automation Enthusiast*
 
----
 
-### About Me
+### About Me:
 - I’m currently working on **AI-powered projects which solve real problems.**
 - Learning **RAG pipelines, Vector DBs, LLM apps**
 - Building tools that make workflow automation easy
@@ -49,23 +48,23 @@ AI Scrum Assistant is an AI-powered tool that helps Agile teams refine backlogs,
 #### 🔹 [AAMigos](https://github.com/anudeepmuppalla1729/AAmigos)
 AAMigos is a MERN-based service platform that connects users with repair service centers through pickup agents. It simplifies device repair by offering doorstep pickup, live repair tracking, seamless communication, and secure delivery—making the repair process fast, transparent, and hassle-free.
 
-#### 🔹 [InQube](https://github.com/anudeepmuppalla1729/TrinwoProject)
-InQube is an open-source Q&A community for developers to ask questions, share knowledge, and collaborate. With features like voting, tagging, bookmarking, and user profiles, InQube provides a clean, developer-friendly platform built for learning and contributing.
+#### 🔹 **[InboxAI](https://github.com/anudeepmuppalla1729/InboxAI)**  
+InboxAI is an AI-powered Gmail assistant that syncs your inbox, summarizes emails, and answers questions using Gemini. With features like AI-generated email drafts, smart search, and inbox insights powered by ChromaDB, InboxAI helps you communicate faster and stay organized effortlessly.
+
 
 
 ---
 
 
 ### GitHub Contribution Graph
-![Anudeep's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anudeepmuppalla1729&theme=tokyo-night)
+![Anudeep's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anudeepmuppalla1729&theme=dark)
 
 ---
 
 ### GitHub Stats:
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anudeepmuppalla1729&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anudeepmuppalla1729&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anudeepmuppalla1729&show_icons=true&theme=dark)  
 
 </div>
 
