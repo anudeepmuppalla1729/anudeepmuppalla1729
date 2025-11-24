@@ -92,7 +92,7 @@ An AI-powered Gmail assistant that syncs your inbox and summarizes emails using 
   </table>
   
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=anudeepmuppalla1729&theme=gitdimmed&no-frame=true&column=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anudeepmuppalla1729&theme=gitdimmed&column=8" alt="GitHub Trophies" />
 </div>
 
 <br />
