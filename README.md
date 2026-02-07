@@ -26,10 +26,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **RAG pipelines, Vector DBs, and LLM apps**.
-- 🚀 Building tools that make **workflow automation easy**.
-- 🎓 **Third-year B.Tech student** passionate about Computer Science.
-- ⚡ Fun fact: I love exploring the intersection of **AI and Agile Methodologies**.
+- I’m currently working on **Generative AI and LLM apps**.
+- Building tools that make **workflow automation easy**.
+- Prefer reading docs first ( nahh just kidding ).
+- Forcing myself to not use AI for anything i build ( yea that ain't working... still learning tough ).
+- Yeaa that Portfolio is Vibe Coded...
 
 ---
 
