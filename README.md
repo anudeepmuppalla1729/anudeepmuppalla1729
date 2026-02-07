@@ -79,22 +79,6 @@ An AI-powered Gmail assistant that syncs your inbox and summarizes emails using 
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=anudeepmuppalla1729&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Anudeep's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anudeepmuppalla1729&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=anudeepmuppalla1729&theme=gitdimmed&column=8" alt="GitHub Trophies" />
-</div>
-
 <br />
 
 <div align="center">
