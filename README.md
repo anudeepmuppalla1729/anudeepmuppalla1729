@@ -30,7 +30,6 @@
 - Building tools that make **workflow automation easy**.
 - Prefer reading docs first ( nahh just kidding ).
 - Forcing myself to not use AI for anything i build ( yea that ain't working... still learning tough ).
-- Yeaa that Portfolio is Vibe Coded...
 
 ---
 
