@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me
 
-- I’m currently working on **Generative AI and LLM apps**.
+- I'm currently working on **Generative AI and LLM apps**.
 - Building tools that make **workflow automation easy**.
 - Prefer reading docs first ( nahh just kidding ).
 - Forcing myself to not use AI for anything i build ( yea that ain't working... still learning tough ).
@@ -67,13 +67,13 @@
 > *Agile, Automated.*
 An AI-powered tool that helps Agile teams refine backlogs, plan sprints, and track progress. It integrates with **Jira** to automate tedious tasks, generate sprint summaries, and forecast workloads using **RAG pipelines**.
 
-#### 🔹 [AAMigos](https://github.com/anudeepmuppalla1729/AAmigos)
-> *Repair Services, Simplified.*
-A **MERN-based** platform connecting users with repair centers via pickup agents. Features include doorstep pickup, live repair tracking, and secure delivery to make the repair process transparent and hassle-free.
+#### 🔹 [CareerConnect](https://github.com/anudeepmuppalla1729/CareerConnect)
+> *Your Career, Connected.*
+A full-stack job portal deployed on **AWS EC2 & S3** that connects students with opportunities. Features smart job listings, profile management, and a seamless application workflow built on the **MERN stack**.
 
-#### 🔹 [InboxAI](https://github.com/anudeepmuppalla1729/InboxAI)
-> *Your Inbox, Smarter.*
-An AI-powered Gmail assistant that syncs your inbox and summarizes emails using **Gemini**. Features include AI-generated drafts, smart search, and inbox insights powered by **ChromaDB**.
+#### 🔹 [Job Shortlisting Prediction Model](https://github.com/anudeepmuppalla1729/Job-Shortlisting-Prediction-Model)
+> *Data-Driven Hiring.*
+A machine learning model that predicts candidate shortlisting outcomes based on resume attributes and job criteria. Built with **Python** and **scikit-learn**, it helps recruiters make faster, bias-reduced decisions.
 
 ---
 
@@ -82,7 +82,25 @@ An AI-powered Gmail assistant that syncs your inbox and summarizes emails using 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anudeepmuppalla1729&theme=react-dark" width="100%" alt="Contribution Graph" />
+  <img src="https://komarev.com/ghpvc/?username=anudeepmuppalla1729&style=for-the-badge&color=3F6FF8&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anudeepmuppalla1729&theme=react&hide_border=true&background=0d1117&stroke=3F6FF8&ring=3F6FF8&fire=ff6b6b&currStreakLabel=3F6FF8&sideLabels=c9d1d9&dates=c9d1d9" width="60%" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anudeepmuppalla1729&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" alt="Dev Quote" />
 </div>
 
 ---
