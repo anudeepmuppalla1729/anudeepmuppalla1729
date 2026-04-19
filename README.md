@@ -64,16 +64,20 @@
 ### 🚀 Featured Projects
 
 #### 🔹 [AI Scrum Assistant](https://github.com/anudeepmuppalla1729/AI-Scrum-Assistant)
+
 > *Agile, Automated.*
-An AI-powered tool that helps Agile teams refine backlogs, plan sprints, and track progress. It integrates with **Jira** to automate tedious tasks, generate sprint summaries, and forecast workloads using **RAG pipelines**.
+> An AI-powered tool that helps Agile teams refine backlogs, plan sprints, and track progress. It integrates with **Jira** to automate tedious tasks, generate sprint summaries, and forecast workloads using **RAG pipelines**.
+
+#### 🔹 [EarnGuard](https://github.com/anudeepmuppalla1729/EarnGuard)
+
+> *Protecting Gig Workers, Intelligently.*
+> An AI-powered parametric insurance platform designed for delivery partners to safeguard against income loss due to disruptions like weather, strikes, or platform outages. It leverages **real-time data, ML-based risk scoring, and automated payout systems** to provide instant compensation without manual claims, along with robust fraud detection mechanisms.
 
 #### 🔹 [CareerConnect](https://github.com/anudeepmuppalla1729/CareerConnect)
-> *Your Career, Connected.*
-A full-stack job portal deployed on **AWS EC2 & S3** that connects students with opportunities. Features smart job listings, profile management, and a seamless application workflow built on the **MERN stack**.
 
-#### 🔹 [Job Shortlisting Prediction Model](https://github.com/anudeepmuppalla1729/Job-Shortlisting-Prediction-Model)
-> *Data-Driven Hiring.*
-A machine learning model that predicts candidate shortlisting outcomes based on resume attributes and job criteria. Built with **Python** and **scikit-learn**, it helps recruiters make faster, bias-reduced decisions.
+> *Your Career, Connected.*
+> A full-stack job portal deployed on **AWS EC2 & S3** that connects students with opportunities. Features smart job listings, profile management, and a seamless application workflow built on the **MERN stack**.
+
 
 ---
 
