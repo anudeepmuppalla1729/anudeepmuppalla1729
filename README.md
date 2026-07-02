@@ -73,10 +73,10 @@
 > *Protecting Gig Workers, Intelligently.*
 > An AI-powered parametric insurance platform designed for delivery partners to safeguard against income loss due to disruptions like weather, strikes, or platform outages. It leverages **real-time data, ML-based risk scoring, and automated payout systems** to provide instant compensation without manual claims, along with robust fraud detection mechanisms.
 
-#### 🔹 [CareerConnect](https://github.com/anudeepmuppalla1729/CareerConnect)
+#### 🔹 [Nexus Native](https://github.com/anudeepmuppalla1729/NexusNative)
 
-> *Your Career, Connected.*
-> A full-stack job portal deployed on **AWS EC2 & S3** that connects students with opportunities. Features smart job listings, profile management, and a seamless application workflow built on the **MERN stack**.
+> *Marketing Intelligence, Powered by AI.*
+> An AI-powered marketing intelligence platform that transforms raw customer data into actionable campaigns through automated **RFM analysis**, **dynamic SQL segmentation**, and **multi-agent AI**. Built with **TypeScript**, leveraging cutting-edge generative AI for intelligent customer targeting.
 
 
 ---
